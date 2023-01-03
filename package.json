@@ -2,7 +2,7 @@
 	"name": "movies-react-apollo",
 	"private": true,
 	"version": "0.0.0",
-	"homepage": "./",
+	"homepage": "https://andreysdrv.github.io/movies-react-apollo",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
